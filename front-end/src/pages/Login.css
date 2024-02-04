@@ -1,0 +1,59 @@
+/* .login-main {
+  display: block;
+  align-items: center;
+} */
+
+/* .login-main h1{
+  text-align: center;
+} */
+
+button
+ {
+     background-color: black;
+     color: white;
+     padding-top: 0.5rem;
+     padding-bottom: 0.5rem;
+     text-transform: uppercase;
+     letter-spacing: 0.15rem;
+     border: 1px solid white;
+  
+ }
+ .bottom-link
+ {
+     text-decoration: none;
+     color: black;
+ }
+
+
+
+ .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.form input {
+  margin-bottom: 10px;
+}
+.register-link {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.register-link a {
+  color: blue;
+  text-decoration: none;
+}
+
+.register-link a:hover {
+  text-decoration: underline;
+}
